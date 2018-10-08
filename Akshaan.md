@@ -1,0 +1,1 @@
+  The Google Assistant is a virtual assistant powered by artificial intelligence and developed by Google that is primarily available on mobile and smart home devices. Unlike Google Now, the Google Assistant can engage in two-way conversations.
